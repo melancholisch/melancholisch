@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2>I'm Mel. Software engineer (preferely Front end). Architect and urbanist</h2>
+  <h2>I'm Mel. Software engineer, preferely Front end</h2>
 </div>
 
 
